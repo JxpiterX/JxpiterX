@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm **Mathieu**, a cybersecurity student at **Ecole 2600**, with a strong interest in **Blue Team operations** and **defensive security**.
+I'm **Jxpiter**, a cybersecurity student at **Ecole 2600**, with a strong interest in **Blue Team operations** and **defensive security**.
 
 I’m currently following the **SOC Analyst path on Hack The Box** !
 
